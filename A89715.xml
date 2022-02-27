@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding ioyfull nevves from his Excelence the Earle of Essex declaring the true manner of his Excellencies proceedings iu [sic] his march towards Shrewsbury. Also manifesting how the Lord Pawlet was taken prisner by his Excelence at Bridge-north being the true coppy of a letter sent from Bridgenorth to Master Dudly Norton Esquire, inhabiting in Grays-inn-lane, dated Oct. 5th.</title>
+            <author>Norcroft, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89715</idno>
+            <idno type="STC">Wing N1228</idno>
+            <idno type="STC">Thomason E121_28</idno>
+            <idno type="STC">ESTC R212768</idno>
+            <idno type="EEBO-CITATION">99871342</idno>
+            <idno type="PROQUEST">99871342</idno>
+            <idno type="VID">123752</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123752)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding ioyfull nevves from his Excelence the Earle of Essex declaring the true manner of his Excellencies proceedings iu [sic] his march towards Shrewsbury. Also manifesting how the Lord Pawlet was taken prisner by his Excelence at Bridge-north being the true coppy of a letter sent from Bridgenorth to Master Dudly Norton Esquire, inhabiting in Grays-inn-lane, dated Oct. 5th.</title>
+                  <author>Norcroft, John.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hen. Hutton.,</publisher>
+                  <pubPlace>Londoa [sic, i.e. London] :</pubPlace>
+                  <date>Oct. 10. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at foot of page 7: John Norcroft, Esq.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123752:1"/>
+            <pb facs="tcp:123752:1" rendition="simple:additions"/>
+            <p>EXCEEDING IOYFVLL NEVVES From his Excelence the Earle of ESSEX Declaring the true manner of his Ex<g ref="char:EOLhyphen"/>cellencies proceedings in his march towards <hi>SHREWSBVRY.</hi>
+            </p>
+            <p>Alſo manifeſting how the Lord <hi>Pawlet</hi> was taken priſner by his Excelence at <hi>Bridge-north</hi>
+            </p>
+            <p>Being the true Coppy of a Letter ſent from Bridgenorth to Maſter <hi>Dudly Norton</hi> Eſquire, inha<g ref="char:EOLhyphen"/>biting in Grays-inn-lane, dated Oct. 5th.</p>
+            <figure/>
+            <p>
+               <hi>Londoa,</hi> Printed for <hi>Hen. Hutton.</hi> Oct. 10. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:123752:2"/>
+            <pb n="1" facs="tcp:123752:2"/>
+            <head>EXCEEDING JOYFVLL NEVVES FROM His Excellence the <hi>EARLE OF</hi> ESSEX.</head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving received ſo many favours from you in this kinde, I have thought it requiſite to informe you what hath happened here at <hi>Bridgenorth,</hi> ſince my laſt Letter. His Excellence his Quarter-maſter generall came hither on
+<pb n="4" facs="tcp:123752:3"/>Sunday the ſecond of October, and by ver<g ref="char:EOLhyphen"/>tue of a Commiſſion from his Excellence, provided billeting for tenne Regiments of Horſe, and neere ſixe thouſand Foot, with us and our neighbour Villages. Now by the way I muſt enform you that a great many Having-beene latly oppreſſed by his Majeſties forces, ſeemed ſome what unwilling to give entertainment to any more ſoldiers, but to be ſhort they muſt do it or elſe deſervedly ſuffer under the cenſure of a malignant party; and ſo be indanger of Having their houes plun<g ref="char:EOLhyphen"/>dred by ſouldiers, who take upon them to excecute Iuſtice with out or feare or Law or Religion, eſteeming all thoſe papiſts, or favou<g ref="char:EOLhyphen"/>rers of Papiſts, that doe not only diſiſt from Countenancing ſuch uncivel Actions, but deny to be aſſiſtant in the performance, where. fore after the neceſſity was well examined they were reſolved, rather to put all into the hands of Almighty God, then any way to ſeem a verſe which would not onely bring ruine to the eſtate but perſon to.</p>
+            <p>On tueſday at night we expected His Ex<g ref="char:EOLhyphen"/>cellence would have made Bridgenorth His quarters, but before noone we heard the E<g ref="char:EOLhyphen"/>choing notes of the ſhrill trumpet, which cau<g ref="char:EOLhyphen"/>ſed us to think his Excellence had been neere, but Having ſent out ſcouts to deſcry the truth and give us notice, they brought us word that
+<pb n="5" facs="tcp:123752:3"/>Duke <hi>Maurice,</hi> the Lord <hi>Strange,</hi> Marqueſſe <hi>Hartford,</hi> the Lord <hi>Paulet,</hi> M. <hi>Haſtings</hi> of Liceſ<g ref="char:EOLhyphen"/>ter ſhire, S. John <hi>Biron,</hi> with a very conſider<g ref="char:EOLhyphen"/>able Army were upon march to our towne which newes began to ſtartle us, inſtantly an Alarum was given, every man from ſixteene to fifty and upwards got himſelf into ſuch arms, as they could preſently attaine or could im<g ref="char:EOLhyphen"/>magine to be conduceable for the defence of the towne.</p>
+            <p>Likewiſe we had five field pieces and three troups of Horſe which came to guard them from worceſter in our town, being come the night before, theſe we mounted ſome upon the Church and the reſt in the beſt places where we could conceive we might preiudice the enemy, our troops of Horſe made good a paſſage where they were to paſſe over before they could attain to the towne, our foote made good ſeverall other breaches and en<g ref="char:EOLhyphen"/>trances according to our ut moſt skill and beſt endeavours.</p>
+            <p>The Lord <hi>Strange,</hi> ſeeing himſelf thus de<g ref="char:EOLhyphen"/>feated and having beene gauled twice or thrice with our pieces from the top of the Church, made a ſtand and drew up ſome Com<g ref="char:EOLhyphen"/>panies of foote under the Covert of a grove of willow, who with their muskets played up<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:123752:4"/>our troops of Horſe and beat them from their paſſage wounding neere twenty, inſo<g ref="char:EOLhyphen"/>much that they began to wade the foard which being deſcried we with our Bowes and Arrowes ſent to them which did ſo gaule them, being unarmed men (only offenfive Armes) that with their utmoſt ſpeed they did retreat, ſtriving to recover the ſhelter of the grove to hide them from us.</p>
+            <p>During this conflict, his Excellence with ſeverall Regiments of horſe drew neere the Town, which cauſed the Lord STRANGE to draw into a Champain field betweene our Towne and him, endeavouring to intercept his paſſage, having got intelligence that his groſſe body was above three houres march behind.</p>
+            <p>Notwithſtanding the Lord <hi>Strange</hi> his Ar<g ref="char:EOLhyphen"/>mie was very conſiderable both of horſe and foote, yet the Forces under the command of the Earle of <hi>Eſſex,</hi> were ſo eager to fall on that maugre all perſwaſions they would not ſtay till that the foote marcht up to ſecond them, but having received directions from the Earle, they charged them boldly with their Carbine ſhot, deviding ſo their Troopes that at one onſet both Van and Reare were changed ſo fiercely, that ſpight of all the Cavaliers diſcretion they loſt their order, and in a confuſed manner retreated baſely.</p>
+            <p>
+               <pb n="7" facs="tcp:123752:4"/>
+In this confuſion many men were loſt and hurt on both ſides, but which ſide moſt is not yet apparantly knowne, onely wee tooke ſeven priſoners Gentlemen of worth, and a<g ref="char:EOLhyphen"/>mongſt them my Lord <hi>Paulet</hi> was nooſed, who as it was reported made a wiſe ſpeech in the head of the Army before the skirmiſh, animating them on to bloody Crueltie, and we doubt not but that he ſhall in ſome mea<g ref="char:EOLhyphen"/>ſure taſte of the ſame diſh hee hath provided for others.</p>
+            <p>The next day a Meſſenger was ſent to Shrewsbury, to deſire that Captain <hi>Wingat</hi> who was taken priſoner before Worceſter might be exchanged for one of the other, but what returne wee ſhall have is not yet known.</p>
+            <p>It is conceived there was about 80. killed, and 45. wounded on both ſides, but which ſide loſt moſt I cannot ſay; onely we ought to give God thankes that during the ſpace of five houres bickering no more blood ſhould be ſhed. This is the truth of our proceedings. at my next opertunity I ſhall ſend to you, farewell,</p>
+            <closer>
+               <dateline>Bridgenorth <date>Oct. 5. 1642.</date>
+               </dateline>
+               <signed>John Norcroft, <abbr>Eſq</abbr>
+               </signed>
+            </closer>
+         </div>
+         <div type="dispatch">
+            <pb facs="tcp:123752:5"/>
+            <head>Newes from <hi>Shrewshurie</hi>
+            </head>
+            <p>THe Kings Army is in great diſtraction, by rea<g ref="char:EOLhyphen"/>ſon that they are hem'd in by the Country, ſo that they cannot plunder as they were wont to doe, the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make great complaint for want of pay, but they are promiſed that they ſhall have ſupplies very ſuddenly but from whence it is uncertaine.</p>
+            <p>Likewiſe there is great expectation of Forces to come to ſtrengthen the Army which is very wea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as yet, all the Kings Army not amounting to <hi>12000.</hi> The Country cannot endure to heare of any thing to be put in Act againſt the Parliament, yet they ap<g ref="char:EOLhyphen"/>peare very loving and loyall toward his Majeſty.</p>
+            <p>Wee heare the Earle of <hi>Eſſex</hi> is making this way God ſend him to come during the Kings abode with us, and then we doubt not but that theſe diſtractions will be quickly ended.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:123752:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
